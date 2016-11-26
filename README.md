@@ -14,8 +14,8 @@ https://github.com/kennyledet/Algorithm-Implementations/blob/master/Thompsons_Co
 Steps:
 1) Parsing ---> converting Infix regex to Postfix
 
-2) Postfix Expression---> NFA
+2) Postfix Expression---> NFA (Thompson Algorithm)
 
-3) NFA --> DFA
+3) NFA --> DFA (Subset Construction Algorithm)
 
 4)DFA-->Adjacency MAtrix
